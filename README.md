@@ -1,8 +1,9 @@
 # Psychology Student
 
 ## Education
-- bachelor in Psychology, University of Aberdeen - (2021-2025)
+- Bachelor in Psychology, University of Aberdeen - (2021-2025)
 - PhD Psychology, University of Birmingham - (2025-2029)
+- loves dogs, beer, football & John Wick
 
 ## Research Poster
-[View my research poster](ESCAN_Wendler.pdf)
+[View my ESCAN conference poster here](ESCAN_Wendler.pdf)
