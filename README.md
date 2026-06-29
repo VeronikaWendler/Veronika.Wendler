@@ -6,6 +6,6 @@
 - loves dogs, craft beer & football
 
 ## Research Poster
-[View my ESCAN conference poster here](ESCAN_Wendler.pdf)
-[View my IHPCSS poster here](Poster_BCBR_June30_Wendler_3.pdf)
+- [View my ESCAN conference poster here](ESCAN_Wendler.pdf)
+- [View my IHPCSS poster here](Poster_BCBR_June30_Wendler_3.pdf)
 
