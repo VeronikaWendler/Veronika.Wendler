@@ -10,4 +10,4 @@
 
 [View my IHPCSS poster here](Poster_BCBR_June30_Wendler_3.pdf)
 
-[View my IHPCSS PowerPoint here](Wendler_IHPCSS.pptx)
+[View my IHPCSS PowerPoint here](Wendler_IHPCSS_pdf.pdf)
